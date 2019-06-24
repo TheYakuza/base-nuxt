@@ -1,8 +1,10 @@
-# mail-builder
+# nuxt base
+
+[![Build Status](https://travis-ci.org/TheYakuza/base-nuxt.svg?branch=master)](https://travis-ci.org/TheYakuza/base-nuxt)
 
 > mail builder to html
 
-## Build Setup
+## base project
 
 ``` bash
 # install dependencies
